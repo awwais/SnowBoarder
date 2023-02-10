@@ -1,3 +1,3 @@
 # SnowBoarder
  
-[PlayNow](awwais.me/SnowBorder)
+[PlayNow](https:://awwais.me/SnowBorder)
